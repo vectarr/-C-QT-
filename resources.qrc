@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC>
+    <qresource prefix="/">
+        <file>images/moon.png</file>
+        <file>images/woodfish.png</file>
+        <file>images/app_icon.ico</file>
+        <file>sounds/woodfish.mp3</file>
+    </qresource>
+</RCC>

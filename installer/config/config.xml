@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>学生管理系统</Name>
+    <Version>1.0.0</Version>
+    <Title>学生管理系统安装程序</Title>
+    <Publisher>你的名字或组织</Publisher>
+    <StartMenuDir>学生管理系统</StartMenuDir>
+    <TargetDir>@ApplicationsDir@/StudentManagement</TargetDir>
+</Installer>
